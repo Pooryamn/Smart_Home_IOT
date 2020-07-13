@@ -1,9 +1,14 @@
 # Smart_Home_IOT
 In this project "Node red" was used for the main server. this project has web version. A telegram bot has implemented for this smart home,too.
 
+# programmer :
 ## Poorya Mohammadi Nasab
+
+# email :
 ## Poorya.m.n.b@gmail.com
-## t.me/AP_M_N
+
+# telegram : 
+## t.me/@P_M_N
 
 # project pictures :
 
